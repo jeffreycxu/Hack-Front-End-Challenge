@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to right, #2a2a2a, #191919);
+    font-family: "Open Sans", sans-serif;
+}
+
+.ui.segment{
+    background:#e7e7e7;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.ui.form{
+    margin-top: 80px;
+}
+
+.ui.form input{
+    font-family: "Open Sans", sans-serif;
+}
+
+.ui.button{
+    background:#d3a1ff;
+    margin:0 auto;
+    width: 90%;
+    color: white;
+    display: block;
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+}
+
+.title{
+    color: #bb8ce5;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.count{
+    color:gray;
+}
