@@ -4,13 +4,14 @@ Usage:
 
 You can download this React App two ways based on preference. First click on the clone or download button on the top right side of the screen.  
 
-Getting Started
+Getting Started. 
+
 There are two methods for getting started with this repo.
 
 1) 
  ```
  git clone https://github.com/jeffreycxu/Hack-Front-End-Challenge.git
- cd Hack-Front-End_Challenge
+ cd Hack-Front-End-Challenge
  npm install
  npm start
  ```
@@ -21,6 +22,8 @@ There are two methods for getting started with this repo.
  npm install
  npm start
  ```
+ 
+IF YOU'RE GETTING AN ERROR WITH NPM, GO TO https://nodejs.org/en/download/! Download the version of node for your computer and you should be good! 
 
 ![](screenshots/screenshot1.png)
 
