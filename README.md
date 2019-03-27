@@ -2,10 +2,6 @@ Thanks for checking out my App!
 
 Usage:
 
-You can download this React App two ways based on preference. First click on the clone or download button on the top right side of the screen.  
-
-Getting Started. 
-
 There are two methods for getting started with this repo.
 
 1) 
